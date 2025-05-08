@@ -11,6 +11,7 @@ import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import io.github.cdimascio.dotenv.Dotenv;
 
+
 public class ConsultaMoeda {
 
     public static void executaConsulta(String moedaBase, String moedaDestino, double valor) {
