@@ -33,13 +33,13 @@ O programa oferece as seguintes conversões de moeda:
 3.  **Compile os arquivos Java:**
 
     ```bash
-    javac principal/Principal.java modelos/Menu.java modelos/ConsultaMoeda.java
+    javac -cp "lib/*" -d out src/principal/Principal.java src/modelos/*.java
     ```
 
 4.  **Execute o programa:**
 
     ```bash
-    java principal.Principal
+    java principal.Principaljava -cp "lib/*:out" principal.Principal
     ```
 
 5.  **Siga as instruções do menu** para realizar as conversões desejadas.
