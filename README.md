@@ -1,6 +1,6 @@
 # Conversor de Moedas
 
-Este é um simples conversor de moedas desenvolvido em Java que utiliza a API [exchangerate-api.com](https://www.exchangerate-api.com) para obter as taxas de câmbio mais recentes.
+Este é um conversor de moedas desenvolvido em Java que utiliza a API exchangerate-api.com para converter valor de certo de uma moeda para outra escolhida pelo usuário com base nas taxas de câmbio mais recentes.
 
 ## Funcionalidades
 
