@@ -39,7 +39,7 @@ O programa oferece as seguintes conversões de moeda:
 4.  **Execute o programa:**
 
     ```bash
-    java principal.Principaljava -cp "lib/*:out" principal.Principal
+    java -cp "lib/*:out" principal.Principal
     ```
 
 5.  **Siga as instruções do menu** para realizar as conversões desejadas.
